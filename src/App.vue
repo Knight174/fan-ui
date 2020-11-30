@@ -1,7 +1,9 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <h1>Hello world!</h1>
-  <Cpc msg="cpc" />
+  <h1>Nav</h1>
+  <router-link to="/">nav one</router-link> | 
+  <router-link to="/cpc2">nav two</router-link>
+  <hr />
+  <router-view></router-view>
 </template>
 
 <script>

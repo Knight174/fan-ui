@@ -1,10 +1,10 @@
 <template>
-  <div>Cpc1</div>
+  <div>Cpc2</div>
 </template>
 
 <script>
 export default {
-  name: 'cpc'
+  name: 'cpc2'
 }
 </script>
 
