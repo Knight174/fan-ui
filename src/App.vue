@@ -3,12 +3,7 @@
 </template>
 
 <script>
-import Cpc from './components/Cpc.vue'
-
 export default {
-  name: 'App',
-  components: {
-    Cpc
-  }
+  name: 'App'
 }
 </script>
